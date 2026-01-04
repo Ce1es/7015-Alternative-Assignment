@@ -82,7 +82,7 @@ To reproduce the experiments, you can run the provided Jupyter Notebook.
 ### Quick Start
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/Med-VQA-Project.git](https://github.com/YourUsername/Med-VQA-Project.git)
+    git clone (https://github.com/Ce1es/7015-Alternative-Assignment.git)
     cd Med-VQA-Project
     ```
 
